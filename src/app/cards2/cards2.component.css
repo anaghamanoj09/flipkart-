@@ -5,3 +5,8 @@
     border-radius: 8px;
     padding: 5px;
 }
+
+.zoom-img:hover {
+    width: 201px;
+  }
+  
